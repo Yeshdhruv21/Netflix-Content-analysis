@@ -1,0 +1,2 @@
+# Netflix-Content-analysis
+PerformedExploratoryDataAnalysistoobtainyearlytrendofmoviesandshows usingnumpy,pandasandseaborn•Deployedheatmaps,pairplots,scatterplotstodeterminecorrelationbetweenvariousgenresavailable on Netflix •Concluded that most rated documentaries belong to the genre of Science and Nature
